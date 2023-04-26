@@ -1,0 +1,11 @@
+$>cat index.html
+<html>
+    <div id="my_box" style= "background-color: red; position: absolute; right: 70; bottom: 70; min-width: 100px; min-height: 100px"></div>
+    <script type="text/javascript">
+     box = document.getElementById("my_box");
+     box.style.right = 0;
+     box.style.bottom = 0;
+     // YOUR CODE
+    </script>
+</html>
+$>
